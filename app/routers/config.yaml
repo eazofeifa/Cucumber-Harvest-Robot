@@ -1,0 +1,6 @@
+LOOP_SECONDS: -1
+LOOP_ACTIVE: false
+MODEL_NAME: segment-cucumber-trt-fp16.engine
+DUMMY_PATH: /home/jetadmin/Apps/Cucumber/Server/Loop/app/routers/example.jpg
+USE_DUMMY: true
+SAND_DIR: /home/jetadmin/Apps/Cucumber/Server/Loop/app/routers/data
